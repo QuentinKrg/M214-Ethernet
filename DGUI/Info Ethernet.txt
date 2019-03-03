@@ -1,0 +1,56 @@
+﻿Création du protocole Ethernet
+	Le 22 mai 1973, Robert Metcalfe, alors ingénieur au Xerox Parc de Palo Alto,
+
+
+câble Ethernet définition : 
+	Il s’agit d’un câble utilisé pour la transmission de données informatiques. Il permet de connecter votre console, votre décodeur tv ou encore votre ordinateur à une connexion Internet. Il relie votre livebox au périphérique que vous souhaitez connecter. 
+
+
+Les différents Support de transmission de données
+	- Le câble de type coaxial
+	- La double paire torsadée
+	- La fibre optique
+
+Le câble coaxial
+	Avantage
+	- peu couteux 
+	- facile à manipuler (poids, souplesse) 
+
+Le cable paires torsadés
+	L'entrelacement permet de supprimer les bruits (interférences électriques) dus aux paires adjacentes
+	
+	Ne permet pas de faire de longues distances avec un grand débit 
+	
+	Utilisé dans les réseau local pour interconnécter des périphèriques
+	
+	Longueur maximale d'un segment : 100 mètres
+
+La fibre optique
+	Avantages :
+	- Légèreté
+	- Immunité au bruit
+	- Faible atténuation
+	- Haut débit
+	- Largeur de bande de quelques dizaines de mégahertz à plusieurs gigahertz (fibre monomode)
+
+	Utilisé
+	- Pour interconnecter des commutateurs professionels ou interconnecter des sites
+
+
+Connecteur 
+La paire torsadée = connecteur RJ-45. RJ-45 = RJ-11 (téléphonie) sauf qu'il est plus grand et se compose de 8 broches alors que le RJ-11 n'en possède que 6, voire 4 généralement. 
+
+
+Peut être interéssant 
+	Catégorie 1 : Câble téléphonique traditionnel (transfert de voix mais pas de données)
+	Catégorie 2 : Transmission des données à 4 Mbit/s maximum (RNIS). Ce type de câble est composé de 4 paires torsadées
+	Catégorie 3 : 10 Mbit/s maximum. Ce type de câble est composé de 4 paires torsadées et de 3 torsions par pied
+	Catégorie 4 : 16 Mbit/s maximum. Ce type de câble est composé de 4 paires torsadées en cuivre
+	Catégorie 5 : 100 Mbit/s maximum. Ce type de câble est composé de 4 paires torsadées en cuivre
+	Catégorie 5e : 1000 Mbit/s maximum. Ce type de câble est composé de 4 paires torsadées en cuivre
+
+SOURCE
+https://www.commentcamarche.net/contents/1128-transmission-de-donnees-le-cablage
+https://www.usine-digitale.fr/article/le-protocole-ethernet-a-40-ans-son-inventeur-nous-le-rappelle.N197420
+
+
