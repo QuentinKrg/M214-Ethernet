@@ -25,6 +25,15 @@ Le cable paires torsadés
 	
 	Longueur maximale d'un segment : 100 mètres
 
+	Nous pouvons utiliser pour les cables droits A->A / B->B
+	Mais pour les cables croisés les normes doivent être mélangées
+
+	Connecteur mâles (prise -> periphérique)
+	Connecteur femelle dans les murs (armoire de brasssage -> prise)
+
+	Monobrin dans les murs
+	Multi brin câble de patch	
+
 La fibre optique
 	Avantages :
 	- Légèreté
