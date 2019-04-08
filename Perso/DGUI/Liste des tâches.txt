@@ -1,0 +1,4 @@
+1. Histoire
+2. Norme
+	a) BASE-T, TX, FX
+	b)T568a/b
